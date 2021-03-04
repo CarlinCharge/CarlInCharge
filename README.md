@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Carl is my name and I'm a developer who started as the kid who always hogged the family computer into the tech nerd and gearhead I am today.
+Carl is my name and I'm a developer who started as the kid who always hogged the family computer into a tech nerd and gearhead.
 
 My main focus has been on frontend development. Technology continues to move at a fast pace and because of that I highly value continually being educated and open to learning.
 ## Languages and Tooling
