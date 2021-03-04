@@ -9,7 +9,7 @@ My main focus has been on frontend development. Technology continues to move at 
 I started my programming journey by learning Ruby to get familar with coding. An easy to read, object oriented language allowed me to focus more on the important basics. From there, I expanded into writing web apps and was lucky enough to be early in the React ecosystem.
 
 ### React.js
-Within the react ecosystem, I've built a [React Boilerplate](https://github.com/CarlinCharge/react-boilerplate) and I also have experience with using [Next.js](https://nextjs.org/) and [Gatsby](https://www.gatsbyjs.com/). Many of these tools have become used widely in the development world and I appreciate that they do so much to assist a lot of the more technical parts of development so I can devote more energy to creative problem solving.
+When I was just getting started with React, I built a [React Boilerplate](https://github.com/CarlinCharge/react-boilerplate). I also have experience with using [Next.js](https://nextjs.org/) and [Gatsby](https://www.gatsbyjs.com/). Many of these tools have become used widely in the development world and I appreciate that they do so much to assist a lot of the more technical parts of development so I can devote more energy to creative problem solving.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CarlInCharge&theme=highcontrast&show_icons=true&count_private=true)
 
