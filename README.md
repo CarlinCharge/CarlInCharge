@@ -17,6 +17,7 @@ When I was just getting started with React, I built a [React Boilerplate](https:
 * My editor of choice is **VSCode**
 * For code formatting/syntax I enjoy using **Prettier** and **EsLint**
 * Occassionally I use **Docker** for spinning up environments
+* I've used PostgresQL, MySQL as well as Firebase, MongoDB + MongoDB Atlas and GraphQL as database tools
 
 ### Continuing To Learn
 I've had a subscription to [FrontEndMasters](https://frontendmasters.com) for years and more recently have enrolled in some [Wes Bos](https://wesbos.com/courses) courses in order to stay sharp. Additionally I've slowly been working through [Teach Yourself CS](https://teachyourselfcs.com/). You might be able to tell, I am a big believer in online learning. It's an important skill in development and life in general.
