@@ -9,7 +9,7 @@ My main focus has been on frontend development. Technology continues to move at 
 I started my programming journey by learning Ruby to get familar with coding. An easy to read, object oriented language allowed me to focus more on the important basics. From there, I expanded into writing web apps and was lucky enough to be early in the React ecosystem.
 
 ### React.js
-When I was just getting started with React, I built a [React Boilerplate](https://github.com/CarlinCharge/react-boilerplate). I also have experience with using [Next.js](https://nextjs.org/), [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) and [Gatsby](https://www.gatsbyjs.com/). Many of these tools have become used widely in the development world and I appreciate that they do so much to assist a lot of the more technical, confirguration parts of development so I can devote more energy to creative problem solving.
+ I have experience with using [Next.js](https://nextjs.org/), [Create React App](https://reactjs.org/docs/create-a-new-react-app.html) and [Gatsby](https://www.gatsbyjs.com/). Many of these tools have become used widely in the development world and I appreciate that they do so much to assist a lot of the more technical, configuration parts of development so I can devote more energy to creative problem solving.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CarlInCharge&theme=highcontrast&show_icons=true&count_private=true)
 
@@ -20,10 +20,10 @@ When I was just getting started with React, I built a [React Boilerplate](https:
 * I've used PostgresQL, MySQL as well as Firebase, MongoDB + MongoDB Atlas and GraphQL as database tools
 
 ### Continuing To Learn
-I've had a subscription to [FrontEndMasters](https://frontendmasters.com) for years and more recently have enrolled in some [Wes Bos](https://wesbos.com/courses) courses in order to stay sharp. Additionally I've slowly been working through [Teach Yourself CS](https://teachyourselfcs.com/). You might be able to tell, I am a big believer in online learning. It's an important skill in development and life in general.
+I've had a subscription to [FrontEndMasters](https://frontendmasters.com) for years and more recently have enrolled in some [Wes Bos](https://wesbos.com/courses) courses in order to stay sharp. Additionally I've slowly been working through [Teach Yourself CS](https://teachyourselfcs.com/). You might be able to tell, I am a big believer in online, continuous learning. It's an important skill in development and life in general.
 
 ### Outside Coding
-Who am I really? Well, I guess a nerd and creative type. I have my own small business [Carl Conroy Design](https://www.carlconroydesign.com/). I make films and photograph weddings and all kinds of occassions. I love playing video games and going on adventuers with friends. Software is just another medium through which I can problem solve and express myself creatively.
+Who am I really? Well, I guess a nerd and creative type. I have my own small business [Carl Conroy Design](https://www.carlconroydesign.com/). I make films and photograph weddings and all kinds of occassions. I love playing video games, playing music, going to shows and exploring on adventuers with friends. Software is just another medium through which I can problem solve and express myself creatively.
 
 <!--
 **CarlinCharge/CarlInCharge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
